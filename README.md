@@ -1,5 +1,3 @@
-![Web Developer]([https://scontent.fdac23-1.fna.fbcdn.net/v/t39.30808-6/260664784_898618277688644_1710438941226750039_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=e3f864&_nc_eui2=AeH34bjdzZts0hVnUdU56RCKuK5BNF5vUee4rkE0Xm9R5zqNtsN4C92Telm5ZOFHDR5RvepFgLwvK_DV8rZULlAX&_nc_ohc=s2jwq-X8tRYAX9OfmUK&tn=zFj7TP-qeynvyvpw&_nc_ht=scontent.fdac23-1.fna&oh=00_AfBvKjnQbqDY2Gk6fqmLbYAy_1HBhfq7WEzaI9Q-orKA_Q&oe=6379406A](https://media.licdn.com/dms/image/D5616AQEaCcuYQcofRw/profile-displaybackgroundimage-shrink_350_1400/0/1701888599170?e=1709164800&v=beta&t=RD8dug_bECtAqtXgzgB7REoqvIjFoHxyAMv51C8zBkM))
-
 ### Hi there 👋, I'm Abdur Rahim
 #### Web Developer
 
