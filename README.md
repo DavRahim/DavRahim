@@ -7,7 +7,8 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 Skills: / REACT / JS / HTML / CSS
 
 - 🔭 I’m currently working on Facebook 
-- 🌱 I’m currently learning Javasrcipt 
+- 🌱 I’m currently learning Javasrcipt ![Untitled design (1)](https://github.com/DavRahim/DavRahim/assets/117851075/f99245e1-0bd8-4327-b861-25b64a4b6bf6)
+
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Devdeloper 
 
