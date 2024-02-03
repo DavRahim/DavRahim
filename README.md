@@ -25,9 +25,8 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/abdurrahim"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abdurrahim" /></a><a href="https://ko-fi.com/mdabdurrahim"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="mdabdurrahim" /></a></p><br><br>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=davrahim&show_icons=true&locale=en" alt="davrahim" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=davrahim&show_icons=true&locale=en&layout=compact" alt="davrahim" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=davrahim&show_icons=true&locale=en&layout=compact" alt="davrahim" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=davrahim&show_icons=true&locale=en" alt="davrahim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davrahim&" alt="davrahim" /></p>
