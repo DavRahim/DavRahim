@@ -1,14 +1,7 @@
-[![MasterHe![Blue Modern Marketing Manager LinkedIn Banner](https://github.com/DavRahim/DavRahim/assets/117851075/1eefbfb2-0fdf-49fe-826e-f7f8e91fcf5d)
-ad]]
+![Blue Modern Marketing Manager LinkedIn Banner](https://github.com/DavRahim/DavRahim/assets/117851075/1eefbfb2-0fdf-49fe-826e-f7f8e91fcf5d)
 <h1 align="center">Hi 👋, I'm Md Abdur Rahim</h1>
 <h3 align="center">A passionate Full-Stack developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/hand-drawn-flat-design-devops-illustration_23-2149387396.jpg?size=626&ext=jpg&ga=GA1.1.1357550290.1671644746&semt=ais"/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=davrahim&label=Profile%20views&color=0e75b6&style=flat" alt="davrahim" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=davrahim" alt="davrahim" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [RS_Shoping_Mart](https://github.com/DavRahim/multi-vendor-ecommerce)
 
