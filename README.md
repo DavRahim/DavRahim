@@ -3,13 +3,13 @@
 <h3 align="center">A passionate Full-Stack developer from Bangladesh </h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/DavRahim/DavRahim/assets/117851075/3c245064-74e4-47ec-96a9-3facf82352ff"/>
 
-- 🔭 I’m currently working on [RS_Shoping_Mart](https://github.com/DavRahim/multi-vendor-ecommerce)
+- 🔭 I’m currently working on [RS_LMS](https://github.com/DavRahim/next-lms)
 
 - 🌱 I’m currently learning **Deep Level Javascript**
 
-- 👯 I’m looking to collaborate on [DEMO ECOMMERCE](https://github.com/DavRahim/demo-ecommerce)
+- 👯 I’m looking to collaborate on [RS LMS](https://github.com/DavRahim/next-lms)
 
-- 🤝 I’m looking for help with [RS_Shoping_Mart](https://github.com/DavRahim/multi-vendor-ecommerce)
+- 🤝 I’m looking for help with [RS_LMS](https://github.com/DavRahim/next-lms)
 
 - 💬 Ask me about **React | React Native | Next JS And Javascript**
 
