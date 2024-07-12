@@ -1,6 +1,6 @@
 ![Blue Modern Marketing Manager LinkedIn Banner](https://github.com/DavRahim/DavRahim/assets/117851075/1eefbfb2-0fdf-49fe-826e-f7f8e91fcf5d)
 <h1 align="center">Hi 👋, I'm Md Abdur Rahim</h1>
-<h3 align="center">A passionate Full-Stack developer from Bangladesh </h3>
+<h3 align="center">A passionate Full-Stack developer from Bangladesh (MERN Stack)</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/DavRahim/DavRahim/assets/117851075/3c245064-74e4-47ec-96a9-3facf82352ff"/>
 
 - 🔭 I’m currently working on [RS_LMS](https://github.com/DavRahim/next-lms)
