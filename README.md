@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [RS_LMS](https://github.com/DavRahim/next-lms)
 
-- 🌱 I’m currently learning **Deep Level Javascript**
+- 🌱 I’m currently learning **DSA**
 
 - 👯 I’m looking to collaborate on [RS LMS](https://github.com/DavRahim/next-lms)
 
